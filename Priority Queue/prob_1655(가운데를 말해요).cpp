@@ -26,8 +26,8 @@ int main() {
 				int temp2 = left.top();
 				left.pop();
 				right.pop();
-				left.push(temp2);
-				right.push(temp);
+				left.push(temp);
+				right.push(temp2);
 			}
 		}
 		cout << left.top() << '\n';
