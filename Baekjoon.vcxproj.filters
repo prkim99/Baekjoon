@@ -15,19 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="prob_1039(exchange).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prob_9663(N-Queen).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prob_7453(합이 0인 네 정수).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prob_2749(피보나치 수3).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prob_1927(최소힙).cpp">
+    <ClCompile Include="prob_.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
